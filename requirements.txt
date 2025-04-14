@@ -1,0 +1,5 @@
+click
+rich
+alive_progress
+aiohttp
+urllib3
