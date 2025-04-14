@@ -1,5 +1,5 @@
 # Thunder
-ThunderScan
+ThunderScan(Fast port scanner)
  
 Steps for Installation
 ```console
