@@ -44,7 +44,7 @@ def display_banner(quiet):
         return
     banner = Text()
     banner.append("╔════════════════════════════════════╗\n", style="bold cyan")
-    banner.append("║        ThunderScan v2.3            ║\n", style="bold magenta")
+    banner.append("║        ThunderScan                 ║\n", style="bold magenta")
     banner.append("║   Ultra-Fast Network Scanner       ║\n", style="bold yellow")
     banner.append("║   Built for Speed & Stealth        ║\n", style="bold green")
     banner.append("╚════════════════════════════════════╝\n", style="bold cyan")
